@@ -1,16 +1,16 @@
 # Data Access and Regulation – Module II
-Dr. Andrea De Angelis
+Dr. Andrea De Angelis  
 Spring Term 2020
 
 ## Contact Info
-Dr. Andrea De Angelis
-Office hour: agreed over email
-email: andrea.deangelis@unilu.ch
+Dr. Andrea De Angelis  
+Office hour: agreed over email  
+email: andrea.deangelis@unilu.ch  
 
 ## Seminar info
-Starting date: 13 January
-end: 24 January
-Location: via Pace 10 
+Starting date: 13 January  
+end: 24 January  
+Location: via Pace 10  
 
 # Dates and location
 The course will take place at the Graduate School on Social and Political Science of the University of Milan, via Pace 10, at the following dates:
